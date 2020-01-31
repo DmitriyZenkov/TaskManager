@@ -1,0 +1,29 @@
+	Super admin:
+admin@gmail.com
+Password1!
+
+	Project admins:
+projectadmin1@gmail.com
+Password_1
+
+projectadmin2@gmail.com
+Password_2
+
+projectadmin3@gmail.com
+Password_3
+
+	Users:
+user1@gmail.com
+Password_1
+
+user2@gmail.com
+Password_2
+
+user3@gmail.com
+Password_3
+
+user4@gmail.com
+Password_4
+
+user5@gmail.com
+Password_5
